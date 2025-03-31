@@ -5,3 +5,4 @@ Git tracks changes of files.
 3232323
 
 git push success.
+Creating a new branch is quick.
